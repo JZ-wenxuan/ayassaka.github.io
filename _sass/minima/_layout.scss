@@ -226,6 +226,8 @@
   object-fit: cover;
   margin: 0;
   transition: opacity .2s ease;
+  border: solid 1px $nord4;
+  border-radius: 8px;
 }
 
 .post-link-summary {
