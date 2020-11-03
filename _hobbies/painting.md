@@ -3,7 +3,7 @@ layout: post
 title:  "Painting"
 summary: "Discover beauty around us."
 category:  "Hobby"
-image: "painting.jpg"
+image: "paint.jpg"
 ---
 
 ![Smoky Mountains]({{ site.url }}/images/smoky-mountains.JPG)
