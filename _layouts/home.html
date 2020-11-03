@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="home">
+  <h2>Projects</h2>
+  <div class="post-list">
+    {%- for post in site.projects -%}
+    <div class="post-link-card">
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        <img class="post-link-img" src="{{ site.url }}/images/{{ post.image }}" alt="" />
+        <div>
+          {{ post.title | escape }}
+        </div>
+        <div class="post-link-summary">
+          {{ post.summary | escape }}
+        </div>
+      </a>
+    </div>
+    {%- endfor -%}
+  </div>
+  <h2>Hobbies</h2>
+  <div class="post-list">
+    {%- for post in site.hobbies -%}
+    <div class="post-link-card">
+      <a class="post-link" href="{{ post.url | relative_url }}">
+        <img class="post-link-img" src="{{ site.url }}/images/{{ post.image }}" alt="" />
+        <div>
+          {{ post.title | escape }}
+        </div>
+        <div class="post-link-summary">
+          {{ post.summary | escape }}
+        </div>
+      </a>
+    </div>
+    {%- endfor -%}
+  </div>
+</div>

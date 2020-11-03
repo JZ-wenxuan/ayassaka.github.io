@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Hi there."
+date:   2020-09-06 22:42 -0400
+categories: test
+image: "test.png"
+---
+Hi, my friend.
+
+Thanks for coming here.
+
+This is the site for some game-dev related project called *Project Magic*.
+
+Project Magic is a project for an independent research course in University of Michigan. The theme is yet undecided, though.
+I'm currently thinking about some options:
+- making a game with mechanics about time travel, portals, and non-euclidean space
+- or an educational game on linguistic stuff, like IPA symbols
+- or something related to Live2D?
+
+Whatever. It's the first week so, well, let's see if there is anything else coming into mind.😉
