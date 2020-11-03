@@ -35,7 +35,6 @@ collections:
      output: true
 
 name: Jack Zhu
-pygments: true
 
 # Build settings
 theme: minima
