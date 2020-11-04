@@ -231,7 +231,9 @@
 }
 
 .post-link-summary {
-  transform: scaleY(0);
+  @media (hover: hover) {
+    transform: scaleY(0);
+  }
   transform-origin: 50% 0%;
   transition: transform .2s ease;
   font-size: $small-font-size;
