@@ -26,3 +26,5 @@ This project is based on:
 
 - [MathJax](https://www.mathjax.org/) with some [customization](https://github.com/Ayassaka/MathJax-src), which tracks TeX source location while compiling.
 - [Ace Editor](https://ace.c9.io/), with great syntax highlighting support for LaTeX.
+
+## [Github link here.](https://github.com/Ayassaka/syn-tex)
