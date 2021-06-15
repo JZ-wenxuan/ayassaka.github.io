@@ -11,7 +11,8 @@ image: "syntex.png"
   width: 100%;
   height: 600px;
   padding: 0;
-"><iframe src="https://ayassaka.github.io/syn-tex/"/></div>
+  background-color: white;
+"><iframe src="https://ayassaka.github.io/syn-tex/"></iframe></div>
 
 ## What is this?
 
