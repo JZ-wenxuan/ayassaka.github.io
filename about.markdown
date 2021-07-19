@@ -14,4 +14,7 @@ Following is my resume:
 <div class="aspect-ratio" style="
   width: 100%;
   padding-bottom: 133%;
-"><iframe src="{{ site.url }}/pdfs/resume.pdf"/></div>
+">
+<embed
+  src="https://raw.githubusercontent.com/JZ-wenxuan/resume/master/.latex_out/resume.pdf#toolbar=0&navpanes=0&scrollbar=0"/>
+</div>
