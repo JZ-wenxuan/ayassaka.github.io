@@ -11,4 +11,4 @@ Auto Kaomoji is a minimal snippet input panel for windows built with AutoHotKey 
 
 ![Auto Kaomoji]({{ site.url }}/images/autokaomoji.gif)
 
-[Github link here.](https://github.com/Ayassaka/auto-kaomoji)
+[Github link here.](https://github.com/jz-wenxuan/auto-kaomoji)

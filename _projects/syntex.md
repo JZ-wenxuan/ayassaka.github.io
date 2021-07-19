@@ -12,7 +12,7 @@ image: "syntex.png"
   height: 600px;
   padding: 0;
   background-color: white;
-"><iframe src="https://ayassaka.github.io/syn-tex/"></iframe></div>
+"><iframe src="https://jz-wenxuan.github.io/syn-tex/"></iframe></div>
 
 ## What is this?
 
@@ -24,7 +24,7 @@ That is, you can select source code from the rendered equation, and vice versa.
 
 This project is based on:
 
-- [MathJax](https://www.mathjax.org/) with some [customization](https://github.com/Ayassaka/MathJax-src), which tracks TeX source location while compiling.
+- [MathJax](https://www.mathjax.org/) with some [customization](https://github.com/jz-wenxuan/MathJax-src), which tracks TeX source location while compiling.
 - [Ace Editor](https://ace.c9.io/), with great syntax highlighting support for LaTeX.
 
-## [Github link here.](https://github.com/Ayassaka/syn-tex)
+## [Github link here.](https://github.com/jz-wenxuan/syn-tex)
