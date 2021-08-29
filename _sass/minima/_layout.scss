@@ -221,8 +221,8 @@
 }
 
 .post-link-img {
-  max-width: 320px;
-  max-height: 180px;
+  min-width: 320px;
+  min-height: 180px;
   object-fit: cover;
   margin: 0;
   transition: opacity .2s ease;
